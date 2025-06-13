@@ -1,0 +1,19 @@
+[project]
+name = "cycle6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.1",
+    "numpy>=2.2.6",
+    "openai>=1.82.0",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.2.3",
+    "pillow>=11.2.1",
+    "pyodbc>=5.2.0",
+    "requests>=2.32.3",
+    "streamlit>=1.45.1",
+    "torch>=2.7.0",
+    "transformers>=4.52.3",
+]
